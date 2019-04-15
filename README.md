@@ -2,7 +2,7 @@
 ## Урок 1. Введение. Тестируем локальный сервер
 
 #### Необходимо:
-1. Знать основы PHP
+1.1111111 Знать основы PHP
     * [Мои видеоуроки на youtube по основам](https://www.youtube.com/playlist?list=PL5QUj3iB7EoINltUTk16nWZFvBbHYjOdE)
 2. Знать основы работы с системой контроля версий Git
     * [Мой видеоурок по основам работы с Git](https://www.youtube.com/watch?v=rnfHuWneMXA&index=1&list=PL5QUj3iB7EoJyInbFgm80U2Sz40njGaoy)
